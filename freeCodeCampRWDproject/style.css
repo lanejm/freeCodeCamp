@@ -20,7 +20,7 @@ body {
   
   #title {
     position: center;
-    font-type: Arial; 
+    font-family: Arial; 
   }
   
   .text-center {
@@ -31,7 +31,7 @@ body {
     text-align: center;
     background: lightgray;
     border: 5px, solid;
-    align: center;
+    align-items: center;
     
   }
   
@@ -48,7 +48,7 @@ body {
     height: auto;
   }
   .photocredit {
-    text-color: lightgray;
+    color: lightgray;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
